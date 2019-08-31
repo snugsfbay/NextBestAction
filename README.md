@@ -7,7 +7,7 @@ A lot of JavaScript buttons were built to validate certain data conditions and t
 
 [Einstein Next Best Action](https://help.salesforce.com/articleView?id=nba_implementation_checklist.htm&type=5) can help. It is a Salesforce setup feature that recommends Actions (think Flows and Quick Actions here) based on a series of conditions and filters. Use it to present a Flow based on record type, user info, or other 'strategies' you define based on your business rules.
 
-Since Next Best Action is tied closely to Flow enabing us to build even more powerful logic for a defined strategy. 
+Next Best Action ties closely to Flow enabing us to build even more powerful logic for a defined strategy. 
 
 Flow can be combined with reuseable Lightning components to direct users to an alternative web page using this [sample code from Salesforce.](https://github.com/snugsfbay/LightningFlowComponents/tree/master/flow_action_components/Summer18/LoadWebPage)
 
