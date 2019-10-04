@@ -15,3 +15,10 @@ Of course, actions that appear and disappear from the screen only when they are 
 
 Keep a watch on this repository as I prepare to demo this technique in an upcoming [Automation Hour webinar on October 4, 2019.](http://bit.ly/BHinners100419)
 
+The sample is built on three Trailhead Badges: 
+
+[API Callouts ...](https://trailhead.salesforce.com/en/content/learn/modules/apex_integration_services/apex_integration_rest_callouts)
+
+[Bear Warning ...](https://trailhead.salesforce.com/en/content/learn/projects/workshop-platform-events/platform-event-subscribe)
+
+[Manage Products ...](https://trailhead.salesforce.com/en/content/learn/projects/manage-products-prices-quotes-orders)
