@@ -9,11 +9,9 @@ A lot of JavaScript buttons were built to validate certain data conditions and t
 
 Next Best Action ties closely to Flow enabing us to build even more powerful logic for a defined strategy. 
 
-Flow can be combined with reuseable Lightning components to direct users to an alternative web page using this [sample code from Salesforce.](https://github.com/snugsfbay/LightningFlowComponents/tree/master/flow_action_components/Summer18/LoadWebPage)
+We can improve this experience with a corresponding Next Best Action strategy to help users complete the data for the actions they need, or by adding a conditional page layout to help them with data completion via a Flow.
 
-Of course, actions that appear and disappear from the screen only when they are valid may be confounding for users. We can improve this experience with a corresponding Next Best Action strategy to help users complete the data for the actions they need, or by adding a conditional page layout to help them with data completion via a Flow.
-
-Keep a watch on this repository as I prepare to demo this technique in an upcoming [Automation Hour webinar on October 4, 2019.](http://bit.ly/BHinners100419)
+Keep a watch on this repository for code from the presentation: [Automation Hour webinar on October 4, 2019.](http://bit.ly/BHinners100419)
 
 The sample is built on three Trailhead Badges: 
 
